@@ -7,8 +7,6 @@ theme = 'moments'
     title = "念"
     signature = "时光轻浅处, 一步一安然"
     cover = "../images/cover.png"
-    author = 'Duanpei'
+    name  = 'Duanpei'
     
-
-    name = "Default User"
     avatar = "../images/avatar.png"
